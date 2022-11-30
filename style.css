@@ -1,0 +1,16 @@
+.card{
+    padding: 12px;
+    background-color: cadetblue;
+    margin: 32px;
+    border: 3px solid deeppink;
+    border-radius: 12px;
+    transition: all 2s ease-in-out;
+}
+
+.card:hover{
+    box-shadow:6px 6px gray;
+}
+.sp{
+    padding: 14px;
+    background-color: blueviolet;
+}
