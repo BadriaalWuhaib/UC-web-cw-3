@@ -1,5 +1,9 @@
 .container{
     width: 500px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-wrap:column ;
 
 }
 
@@ -20,4 +24,11 @@
 
 h1{
     font-family: monospace;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
 }
